@@ -1,6 +1,6 @@
 # Hi, I'm João Pedro Oliveira 👋
 
-### Full Stack Developer | Python • FastAPI • React • PostgreSQL
+### Full Stack Developer | Python • FastAPI • React • PostgreSQL | Html, Css, Boostrap, Css Tailwind, Javascript, React, Git And GitHub
 
 I'm a Full Stack Developer focused on creating complex, scalable, and high-performance software systems.
 
@@ -23,7 +23,7 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,bootstrap,tailwind,js,react" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,bootstrap,tailwind,js,react, git, github" />
 
 </div>
 
@@ -51,6 +51,11 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 - ⚛️ React
 
 ---
+### Version Control
+
+- 🎞️ Git
+- 👀 GitHub
+
 
 ## 🧠 What I Do
 
