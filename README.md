@@ -12,7 +12,7 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 ## 🚀 About Me
 
-💻 Full Stack Developer passionate about software engineering  
+💻 Full Stack Developer  about software engineering  
 🏗️ Experienced in building complex systems and scalable applications  
 ⚡ Focused on backend development, APIs, databases, and modern frontend technologies  
 📚 Always learning and improving my development skills  
