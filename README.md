@@ -23,7 +23,7 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,bootstrap,tailwind,js,react, git, github" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,bootstrap,tailwind,js,react,git,github" />
 
 </div>
 
