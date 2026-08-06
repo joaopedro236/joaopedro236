@@ -63,35 +63,12 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro236&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro236&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📌 Featured Skills
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joaopedro236&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>joaopedrooliveiradearaujo416@gmail.com</p>
 
 </div>
 
