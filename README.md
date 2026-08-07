@@ -1,6 +1,6 @@
 # Hi, I'm João Pedro  👋
 
-### Full Stack Developer | Python • FastAPI • React • PostgreSQL | Html • Css • Boostrap • Css Tailwind • Javascript • React • Git • GitHub
+### Full Stack Developer | Python • FastAPI • PostgreSQL | Html • Css • Boostrap • Css Tailwind • Javascript • React • Git • GitHub
 
 I'm a Full Stack Developer focused on creating complex, scalable, and high-performance software systems.
 
