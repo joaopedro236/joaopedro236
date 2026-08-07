@@ -1,4 +1,4 @@
-# Hi, I'm João Pedro Oliveira 👋
+# Hi, I'm João Pedro  👋
 
 ### Full Stack Developer | Python • FastAPI • React • PostgreSQL | Html • Css • Boostrap • Css Tailwind • Javascript • React • Git • GitHub
 
