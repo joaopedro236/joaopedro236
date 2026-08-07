@@ -50,12 +50,12 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 - ⚡ JavaScript
 - ⚛️ React
 
----
 ### Version Control
 
 - 🎞️ Git
 - 👀 GitHub
 
+---
 
 ## 🧠 What I Do
 
