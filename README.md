@@ -84,20 +84,8 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 ⭐ Building complex solutions. Writing clean code. Creating software that makes an impact.
 
 
----
-
-## 🏆 GitHub Achievements
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joaopedro236&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **Building complex solutions. Writing clean code. Creating software that makes an impact.**
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
 
 </div>
