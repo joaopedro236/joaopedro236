@@ -86,14 +86,11 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 ---
 
-
-## 📊 GitHub Statistics
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaopedro236&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro236&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
+<img src="https://github-profile-trophy.vercel.app/?username=joaopedro236&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
@@ -101,9 +98,6 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 <div align="center">
 
-⭐ Building complex solutions. Writing clean code. Creating software that makes an impact.
-
-</div>
-
+⭐ **Building complex solutions. Writing clean code. Creating software that makes an impact.**
 
 </div>
