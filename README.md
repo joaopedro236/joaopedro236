@@ -83,4 +83,26 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 ⭐ Building complex solutions. Writing clean code. Creating software that makes an impact.
 
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro236&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro236&layout=compact&langs_count=8&theme=transparent" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Building complex solutions. Writing clean code. Creating software that makes an impact.**
+
+</div>
+
+
 </div>
