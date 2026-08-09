@@ -86,6 +86,14 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 <div align="center">
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedro236&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedro236&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedro236&theme=tokyonight" />
+
+</div>
 
 </div>
