@@ -74,7 +74,7 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 <div align="center">
 
 <p>joaopedrooliveiradearaujo416@gmail.com</p>
-
+<p>WhatsApp number (+55 11 95070-2684)</p>
 </div>
 
 ---
