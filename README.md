@@ -90,19 +90,7 @@ Focused on clean code, structured architectures, performance, and reliable softw
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<a href="https://github.com/joaopedro236">
-
-<img src="https://github-readme-stats.vercel.app/api?username=joaopedro236&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</a>
-
-</div>
-
----
 
 ## 📫 Contact
 
