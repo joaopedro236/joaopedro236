@@ -90,17 +90,41 @@ Focused on clean code, structured architectures, performance, and reliable softw
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedro236&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro236&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-<br><br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro236&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedro236&theme=tokyonight" />
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedro236&theme=tokyonight" />
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro236&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopedro236&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/joaopedro236/joaopedro236/output/github-contribution-grid-snake.svg" />
 
 </div>
 
