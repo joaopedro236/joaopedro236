@@ -25,7 +25,7 @@ Focused on clean code, structured architectures, performance, and reliable softw
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,bootstrap,tailwind,js,react,git,github" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,bootstrap,tailwind,js,react,git,github,vscode" />
 
 </div>
 
@@ -90,19 +90,13 @@ Focused on clean code, structured architectures, performance, and reliable softw
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/joaopedro236">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=joaopedro236&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-</a>
-
-<a href="https://github.com/joaopedro236">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro236&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaopedro236&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </a>
 
@@ -127,3 +121,4 @@ Focused on clean code, structured architectures, performance, and reliable softw
 **Full Stack Development • Clean Code • Scalable Systems**
 
 </div>
+
