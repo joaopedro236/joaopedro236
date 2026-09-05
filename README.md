@@ -1,6 +1,6 @@
-# Hi, I'm João Pedro  👋
+# Hi, I'm João Pedro 👋
 
-### Full Stack Developer | Python • FastAPI • PostgreSQL | Html • Css • Boostrap • Css Tailwind • Javascript • React • Git • GitHub
+### Full Stack Developer | Python • FastAPI • PostgreSQL • HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React • Git • GitHub
 
 I'm a Full Stack Developer focused on creating complex, scalable, and high-performance software systems.
 
@@ -12,10 +12,10 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 ## 🚀 About Me
 
-💻 Full Stack Developer  about software engineering  
-🏗️ Experienced in building complex systems and scalable applications  
-⚡ Focused on backend development, APIs, databases, and modern frontend technologies  
-📚 Always learning and improving my development skills  
+💻 Full Stack Developer focused on software engineering
+🏗️ Experienced in building complex systems and scalable applications
+⚡ Focused on backend development, APIs, databases, and modern frontend technologies
+📚 Always learning and improving my development skills
 
 ---
 
@@ -33,48 +33,67 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 ### Backend Development
 
-- 🐍 Python
-- ⚡ FastAPI
-- 🗄️ PostgreSQL
-- 🔗 REST APIs
-- 🔐 Authentication & Security
-- 🏗️ Software Architecture
-- 📊 Database Design
+* 🐍 Python
+* ⚡ FastAPI
+* 🗄️ PostgreSQL
+* 🔗 REST APIs
+* 🔐 Authentication & Security
+* 🏗️ Software Architecture
+* 📊 Database Design
 
 ### Frontend Development
 
-- 🌐 HTML5
-- 🎨 CSS3
-- 🅱️ Bootstrap
-- 💨 Tailwind CSS
-- ⚡ JavaScript
-- ⚛️ React
+* 🌐 HTML5
+* 🎨 CSS3
+* 🅱️ Bootstrap
+* 💨 Tailwind CSS
+* ⚡ JavaScript
+* ⚛️ React
 
 ### Version Control
 
-- 🎞️ Git
-- 👀 GitHub
+* 🎞️ Git
+* 👀 GitHub
 
 ---
 
 ## 🧠 What I Do
 
-✔ Build complex and scalable applications  
-✔ Create efficient backend systems and APIs  
-✔ Design database structures and integrations  
-✔ Develop responsive and modern interfaces  
-✔ Solve challenging programming problems  
-✔ Improve application performance and reliability  
+✔ Build complex and scalable applications
+✔ Create efficient backend systems and APIs
+✔ Design database structures and integrations
+✔ Develop responsive and modern interfaces
+✔ Solve challenging programming problems
+✔ Improve application performance and reliability
 
 ---
 
+## 📜 Certificates
+
+<div align="center">
+
+<h3>JavaScript</h3>
+
+<img src="./Javascript%20certificado.jpg" width="700">
+
+<br><br>
+
+<h3>Python</h3>
+
+<img src="./python%20certificado.jpg" width="700">
+
+</div>
+
+---
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-<p>joaopedrooliveiradearaujo416@gmail.com</p>
-<p>WhatsApp number (+55 11 95070-2684)</p>
+📧 [joaopedrooliveiradearaujo416@gmail.com](mailto:joaopedrooliveiradearaujo416@gmail.com)
+
+📱 WhatsApp: (+55 11 95070-2684)
+
 </div>
 
 ---
@@ -83,8 +102,7 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 ⭐ Building complex solutions. Writing clean code. Creating software that makes an impact.
 
-
-<div align="center">
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedro236&theme=tokyonight" />
 
@@ -93,7 +111,5 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedro236&theme=tokyonight" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedro236&theme=tokyonight" />
-
-</div>
 
 </div>
