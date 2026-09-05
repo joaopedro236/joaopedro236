@@ -2,20 +2,22 @@
 
 ### Full Stack Developer | Python • FastAPI • PostgreSQL • HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React • Git • GitHub
 
-I'm a Full Stack Developer focused on creating complex, scalable, and high-performance software systems.
+Full Stack Developer focused on building scalable applications, APIs, database solutions, and modern web interfaces.
 
-I specialize in building robust backend architectures, designing efficient APIs, managing databases, and developing modern web applications.
+Experience with backend development using Python and FastAPI, relational databases with PostgreSQL, and frontend development with JavaScript and React.
 
-My goal is to transform complex challenges into reliable and scalable solutions through clean code, good architecture, and continuous improvement.
+Focused on clean code, structured architectures, performance, and reliable software solutions.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 💻 Full Stack Developer focused on software engineering
-🏗️ Experienced in building complex systems and scalable applications
-⚡ Focused on backend development, APIs, databases, and modern frontend technologies
-📚 Always learning and improving my development skills
+🏗️ Development of scalable applications and software systems
+⚡ Backend development, APIs, databases, and integrations
+🎨 Modern and responsive frontend development
+📊 Database modeling and management
+📚 Continuous technical development and learning
 
 ---
 
@@ -29,9 +31,9 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 ---
 
-## 💻 My Tech Stack
+## 💻 Tech Stack
 
-### Backend Development
+### 🔙 Backend Development
 
 * 🐍 Python
 * ⚡ FastAPI
@@ -41,7 +43,7 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 * 🏗️ Software Architecture
 * 📊 Database Design
 
-### Frontend Development
+### 🎨 Frontend Development
 
 * 🌐 HTML5
 * 🎨 CSS3
@@ -50,21 +52,23 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 * ⚡ JavaScript
 * ⚛️ React
 
-### Version Control
+### 🔧 Tools & Version Control
 
 * 🎞️ Git
-* 👀 GitHub
+* 🐙 GitHub
 
 ---
 
-## 🧠 What I Do
+## 🚀 What I Do
 
-✔ Build complex and scalable applications
-✔ Create efficient backend systems and APIs
-✔ Design database structures and integrations
-✔ Develop responsive and modern interfaces
-✔ Solve challenging programming problems
-✔ Improve application performance and reliability
+✔️ Build scalable web applications
+✔️ Develop backend systems and REST APIs
+✔️ Design and manage relational databases
+✔️ Develop responsive web interfaces
+✔️ Integrate frontend and backend applications
+✔️ Implement authentication and security features
+✔️ Structure application architectures
+✔️ Improve application performance and reliability
 
 ---
 
@@ -72,29 +76,23 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 <div align="center">
 
-<img src="./Javascript%20certificado.jpg" width="400">
-<img src="./python%20certificado.jpg" width="400">
+### JavaScript
 
-</div>
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-📧 [joaopedrooliveiradearaujo416@gmail.com](mailto:joaopedrooliveiradearaujo416@gmail.com)
-
-📱 WhatsApp: (+55 11 95070-2684)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Building complex solutions. Writing clean code. Creating software that makes an impact.
+<img src="./Javascript%20certificado.jpg" width="350">
 
 <br><br>
+
+### Python
+
+<img src="./python%20certificado.jpg" width="350">
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedro236&theme=tokyonight" />
 
@@ -103,5 +101,25 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedro236&theme=tokyonight" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedro236&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+📧 **Email:** [joaopedrooliveiradearaujo416@gmail.com](mailto:joaopedrooliveiradearaujo416@gmail.com)
+
+📱 **WhatsApp:** (+55 11 95070-2684)
+
+</div>
+
+---
+
+<div align="center">
+
+**Full Stack Development • Clean Code • Scalable Systems**
 
 </div>
