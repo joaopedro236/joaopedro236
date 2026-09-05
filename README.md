@@ -72,18 +72,10 @@ My goal is to transform complex challenges into reliable and scalable solutions 
 
 <div align="center">
 
-<h3>JavaScript</h3>
-
-<img src="./Javascript%20certificado.jpg" width="700">
-
-<br><br>
-
-<h3>Python</h3>
-
-<img src="./python%20certificado.jpg" width="700">
+<img src="./Javascript%20certificado.jpg" width="400">
+<img src="./python%20certificado.jpg" width="400">
 
 </div>
-
 ---
 
 ## 📫 Connect With Me
