@@ -1,6 +1,6 @@
 # Hi, I'm João Pedro 👋
 
-### Full Stack Developer | Python • FastAPI • PostgreSQL • HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React • Git • GitHub
+### Full Stack Developer | Python • FastAPI • PostgreSQL • HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React • Git • GitHub • Redis
 
 Full Stack Developer focused on building scalable applications, APIs, database solutions, and modern web interfaces.
 
@@ -25,7 +25,7 @@ Focused on clean code, structured architectures, performance, and reliable softw
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,bootstrap,tailwind,js,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,bootstrap,tailwind,js,react,git,github,vscode, redis" />
 
 </div>
 
@@ -38,6 +38,7 @@ Focused on clean code, structured architectures, performance, and reliable softw
 * 🐍 Python
 * ⚡ FastAPI
 * 🗄️ PostgreSQL
+* 🔶 Redis
 * 🔗 REST APIs
 * 🔐 Authentication & Security
 * 🏗️ Software Architecture
