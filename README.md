@@ -91,7 +91,9 @@ Focused on clean code, structured architectures, performance, and reliable softw
 
 ---
 
+## 📙 Books
 
+I read the book Clean Code, and I'm currently reading The Pragmatic Programmer . 
 
 ## 📫 Contact
 
