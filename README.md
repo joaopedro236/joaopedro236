@@ -25,7 +25,7 @@ Focused on clean code, structured architectures, performance, and reliable softw
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,bootstrap,tailwind,js,react,git,github,vscode,redis,sqlite, vercel, render" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,bootstrap,tailwind,js,react,git,github,vscode,redis,sqlite,vercel,render" />
 
 </div>
 
